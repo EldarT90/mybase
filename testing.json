@@ -1,19 +1,22 @@
 {
   "name": "Max",
+  "image": "https://s-media-cache-ak0.pinimg.com/236x/ea/50/dd/ea50dda10b7349e1e5a3dfef3207cef6.jpg",
   "children": [
     {
       "name": "Sylvia",
+       "image": "http://www.healthline.com/hlcmsresource/images/slideshow/famous-faces-parkinsons/285x285_Famous_Faces_Parkinsons_Brian_Grant.jpg",
       "children": [
-          {"name": "Craig"},
-          {"name": "Robin"},
-          {"name": "Anna"}
+          {"name": "Craig", "image": "http://i.imgur.com/O19IA.jpg"},
+          {"name": "Robin", "image": "http://i.imgur.com/O19IA.jpg"},
+          {"name": "Anna", "image": "http://i.imgur.com/O19IA.jpg"}
         ]
     },
     {
       "name": "David",
+       "image": "http://i.imgur.com/O19IA.jpg",
       "children": [
-          {"name": "Jerry"},
-          {"name": "Buffy"}
+          {"name": "Jerry", "image": "http://i.imgur.com/O19IA.jpg"},
+          {"name": "Buffy", "image": "http://i.imgur.com/O19IA.jpg"}
       ]
     }
   ]
