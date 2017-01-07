@@ -4,20 +4,16 @@
     {
       "name": "Sylvia",
       "children": [
-        {"children": [
           {"name": "Craig"},
           {"name": "Robin"},
           {"name": "Anna"}
-        ]}
-      ]
+        ]
     },
     {
       "name": "David",
       "children": [
-        {"children": [
           {"name": "Jerry"},
           {"name": "Buffy"}
-        ]}
       ]
     }
   ]
